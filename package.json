@@ -1,0 +1,21 @@
+{
+    "name": "show-welcome-message",
+    "version": "1.0.0",
+    "description": "jue_sheng",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "utils",
+        "format",
+        "money",
+        "phone"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/994AK/show-welcome-message.git"
+    },
+    "author": "jue_sheng",
+    "license": "ISC"
+}
